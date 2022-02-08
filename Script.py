@@ -214,41 +214,45 @@ Delete A Lot Of Messages From Groups!
 • /connections - <code>list all your connections</code>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
-<b>NOTE:</b>
-these are the extra features of ᗩᒍᗩ᙭ 
+<b>𝙽𝙾𝚃𝙴:</b>
 
-<b>Commands and Usage:</b>
-• /id - <code>get id of a specifed user.</code>
-• /info  - <code>get information about a user.</code>
-• /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
-    ADMIN_TXT = """Help: <b>Admin mods</b>
+𝚃𝙷𝙴𝚂𝙴 𝙰𝚁𝙴 𝚃𝙷𝙴 𝙴𝚇𝚃𝚁𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 
 
-<b>NOTE:</b>
-This module only works for my admins
+<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴:</b>
 
-<b>Commands and Usage:</b>
-• /logs - <code>to get the rescent errors</code>
-• /stats - <code>to get status of files in db.</code>
-• /delete - <code>to delete a specific file from db.</code>
-• /users - <code>to get list of my users and ids.</code>
-• /chats - <code>to get list of the my chats and ids </code>
-• /leave  - <code>to leave from a chat.</code>
-• /disable  -  <code>do disable a chat.</code>
-• /ban_user  - <code>to ban a user.</code>
-• /unban_user  - <code>to unban a user.</code>
-• /channel - <code>to get list of total connected channels</code>
-• /broadcast - <code>to broadcast a message to all users</code>"""
+✯ /id - <code>𝚃𝙾 𝙶𝙴𝚃 𝙸𝙳 𝙾𝙵 𝙰 𝚂𝙿𝙴𝙲𝙸𝙵𝙸𝙴𝙳 𝚄𝚂𝙴𝚁.</code>
+✯ /info  - <code>𝙶𝙴𝚃 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝙰𝙱𝙾𝚄𝚃 𝙰 𝚄𝚂𝙴𝚁.</code>
+✯ /imdb  - <code>𝙶𝙴𝚃 𝚃𝙷𝙴 𝙵𝙻𝙸𝙼 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝙵𝙾𝚁 𝙸𝙼𝙳𝙱 𝚂𝙾𝚄𝚁𝙲𝙴.</code>
+✯ /search  - <code>𝙶𝙴𝚃 𝚃𝙷𝙴 𝙵𝙻𝙸𝙼 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝙵𝚁𝙾𝙼 𝚅𝙰𝚁𝙸𝙾𝚄𝚂 𝚂𝙾𝚄𝚁𝙲𝙴𝚂.</code>"""
+    ADMIN_TXT = """➤ 𝙷𝙴𝙻𝙿: <b>𝙰𝙳𝙼𝙸𝙽 𝙼𝙾𝙳𝚂</b>
+
+<b>𝙽𝙾𝚃𝙴:</b>
+
+𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙰𝙳𝙼𝙸𝙽𝚂
+
+<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴:</b>
+
+✯ /logs - <code>𝚃𝙾 𝙶𝙴𝚃 𝚃𝙷𝙴 𝚁𝙴𝚂𝙲𝙴𝙽𝚃 𝙴𝚁𝚁𝙾𝚁𝚂</code>
+✯ /stats - <code>𝚃𝙾 𝙶𝙴𝚃 𝚃𝙷𝙴 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙳𝙱.</code>
+✯ /delete - <code>𝚃𝙾 𝙳𝙴𝙻𝙴𝚃𝙴 𝙰 𝚂𝙿𝙴𝙲𝙸𝙵𝙸𝙲 𝙵𝙸𝙻𝙴 𝙵𝚁𝙾𝙼 𝙳𝙱.</code>
+✯ /users - <code>𝚃𝙾 𝙶𝙴𝚃 𝙻𝙸𝚂𝚃 𝙾𝙵 𝙼𝚈 𝚄𝚂𝙴𝚁𝚂 𝙰𝙽𝙳 𝙸𝙳𝚂.</code>
+✯ /chats - <code>𝚃𝙾 𝙶𝙴𝚃 𝙻𝙸𝚂𝚃 𝙾𝙵 𝚃𝙷𝙴 𝙼𝚈 𝙲𝙷𝙰𝚃𝚂 𝙰𝙽𝙳 𝙸𝙳𝚂.</code>
+✯ /leave  - <code>𝚃𝙾 𝙻𝙴𝙰𝚅𝙴 𝙵𝚁𝙾𝙼 𝙰 𝙲𝙷𝙰𝚃.</code>
+✯ /disable  -  <code>𝚃𝙾 𝙳𝙸𝚂𝙰𝙱𝙻𝙴 𝙰 𝙲𝙷𝙰𝚃.</code>
+✯ /ban_user  - <code>𝚃𝙾 𝙱𝙰𝙽 𝙰 𝚄𝚂𝙴𝚁.</code>
+✯ /unban_user  - <code>𝚃𝙾 𝚄𝙽𝙱𝙰𝙽 𝙰 𝚄𝚂𝙴𝚁.</code>
+✯ /channel - <code>𝚃𝙾 𝙶𝙴𝚃 𝙻𝙸𝚂𝚃 𝙾𝙵 𝚃𝙾𝚃𝙰𝙻 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂.</code>
+✯ /broadcast - <code>𝚃𝙾 𝙱𝚁𝙾𝙳𝙲𝙰𝚂𝚃 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝚃𝙾 𝙰𝙻𝙻 𝚄𝚂𝙴𝚁𝚂.</code>"""
     STATUS_TXT = """<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
-<b>᚛› 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
-<b>᚛› 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>"""
+<b>✫ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
+<b>✫ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
+<b>✫ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
+<b>✫ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
-<b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
-<b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
-<b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
+<b>᚛› 𝙶𝚁𝙾𝚄𝙿 ⪼ {}(<code>{}</code>)</b>
+<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙼𝙴𝙼𝙱𝙴𝚁𝚂 ⪼ <code>{}</code></b>
+<b>᚛› 𝙰𝙳𝙳𝙴𝙳 𝙱𝚈 ⪼ {}</b>
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫
     
