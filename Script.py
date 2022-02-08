@@ -375,17 +375,17 @@ To Get Sticker ID
  • 𝗆 = 𝗆𝗂𝗇𝗎𝗍𝖾𝗌
  • 𝗁 = 𝗁𝗈𝗎𝗋𝗌
  • 𝖽 = 𝖽𝖺𝗒𝗌"""
-    CREATOR_REQUIRED = """❗<b>You have To Be The Group Creator To Do That.</b>"""
+    CREATOR_REQUIRED = """❗<b>𝚈𝙾𝚄 𝙷𝙰𝚅𝙴 𝚃𝙾 𝙱𝙴 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝚃𝙾 𝙳𝙾 𝚃𝙷𝙰𝚃.</b>"""
       
-    INPUT_REQUIRED = "❗ **Arguments Required**"
+    INPUT_REQUIRED = "❗ **𝙰𝚁𝙶𝚄𝙼𝙴𝙽𝚃𝚂 𝚁𝙴𝚀𝚄𝙸𝚁𝙴𝙳**"
       
-    KICKED = """✔️ Successfully Kicked {} Members According To The Arguments Provided."""
+    KICKED = """✔️ 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙺𝙸𝙲𝙺𝙴𝙳 {} 𝙼𝙴𝙼𝙱𝙴𝚁𝚂 𝙰𝙲𝙲𝙾𝚁𝙳𝙸𝙽𝙶 𝚃𝙾 𝚃𝙷𝙴 𝙰𝚁𝙶𝚄𝙼𝙽𝙴𝚃𝚂 𝙿𝚁𝙾𝚅𝙸𝙳𝙴𝙳."""
       
-    START_KICK = """🚮 Removing Inactive Members This May Take A While..."""
+    START_KICK = """🚮 𝚁𝙴𝙼𝙾𝚅𝙸𝙽𝙶 𝙸𝙽𝙰𝙲𝚃𝙸𝚅𝙴 𝙼𝙴𝙼𝙱𝙴𝚁𝚂 𝚃𝙷𝙸𝚂 𝙼𝙰𝚈 𝚃𝙰𝙺𝙴 𝙰 𝚆𝙷𝙸𝙻𝙴..."""
       
-    ADMIN_REQUIRED = """❗<b>എന്നെ Admin ആക്കത്ത സ്ഥലത്ത് ഞാൻ നിക്കില്ല പോകുവാ Bii..Add Me Again with all admin rights.</b>"""
+    ADMIN_REQUIRED = """❗<b>𝙸 𝚆𝙸𝙻𝙻 𝙽𝙾𝚃 𝙶𝙾 𝚃𝙷𝙴 𝙿𝙻𝙰𝙲𝙴 𝚆𝙷𝙴𝚁𝙴 𝚈𝙾𝚄 𝙳𝙸𝙳𝙽'𝚃 𝙼𝙰𝙳𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽🥵..𝚂𝙾 𝙰𝙳𝙳 𝙼𝙴 𝙰𝙶𝙸𝙰𝙽 𝚆𝙸𝚃𝙷 𝙵𝚄𝙻𝙻 𝙰𝙳𝙼𝙸𝙽 𝚁𝙸𝙶𝙷𝚃𝚂..🧐</b>"""
       
-    DKICK = """✔️ Kicked {} Deleted Accounts Successfully."""
+    DKICK = """✔️ 𝙺𝙸𝙲𝙺𝙴𝙳 {} 𝙳𝙴𝙻𝙴𝚃𝙴𝙳 𝙰𝙲𝙲𝙾𝚄𝙽𝚃𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈."""
       
     FETCHING_INFO = """<b>ഇപ്പൊ എല്ലാം അടിച്ചുമാറ്റി തരാം...</b>"""
       
