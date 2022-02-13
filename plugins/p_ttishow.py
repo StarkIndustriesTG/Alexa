@@ -22,7 +22,7 @@ async def save_group(bot, message):
         if message.chat.id in temp.BANNED_CHATS:
             # Inspired from a boat of a banana tree
             buttons = [[
-                InlineKeyboardButton('𝗢𝗪𝗡𝗘𝗥', url=f'https://t.me/{SUPPORT_CHAT}')
+                InlineKeyboardButton('❣️ 𝙾𝚆𝙽𝙴𝚁', url=f'https://t.me/{SUPPORT_CHAT}')
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             k = await message.reply(
@@ -38,10 +38,10 @@ async def save_group(bot, message):
             return
         buttons = [
             [
-                InlineKeyboardButton('⚡ HΞLᎮ ⚡', url=f"https://t.me/{temp.U_NAME}?start=help")
+                InlineKeyboardButton('😥 𝙷𝙴𝙻𝙿 💌', url=f"https://t.me/{temp.U_NAME}?start=help")
             ],
             [
-                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+EqhXLhL3T1w4Zjc1')
+                InlineKeyboardButton('🍭 𝙶𝚁𝙾𝚄𝙿 🌟', url='https://t.me/VK_LINKZ')
             ]
             ]
         reply_markup=InlineKeyboardMarkup(buttons)
@@ -55,7 +55,7 @@ async def save_group(bot, message):
                     await (temp.MELCOW['welcome']).delete()
                 except:
                     pass
-            temp.MELCOW['welcome'] = await message.reply(f"<b>Hey ♥️ {u.mention}, Welcome to {message.chat.title}🙂</b>")
+            temp.MELCOW['welcome'] = await message.reply(f"<b>𝙷𝙴𝚈 ♥️ {u.mention}, 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 {message.chat.title}🙂.𝙳𝙾𝙽'𝚃 𝙵𝙾𝚁𝙶𝙴𝚃 𝚃𝙾 𝚂𝙷𝙰𝚁𝙴 & 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝚄𝚂 ✌</b>")
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
@@ -107,7 +107,7 @@ async def disable_chat(bot, message):
     await message.reply('Chat Succesfully Disabled')
     try:
         buttons = [[
-            InlineKeyboardButton('𝗢𝗪𝗡𝗘𝗥', url=f'https://t.me/{SUPPORT_CHAT}')
+            InlineKeyboardButton('❣️ 𝙾𝚆𝙽𝙴𝚁', url=f'https://t.me/{SUPPORT_CHAT}')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
