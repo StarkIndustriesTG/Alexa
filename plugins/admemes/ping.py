@@ -9,8 +9,8 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
 ALIVE = "🥺 She's not dead, she's still here 👿. You're not in love with me now😰. Well, you're not changed like you used to be😓." 
-HELP = "Help ഒന്നും ഇല്ല ഓടിക്കോ......"
-REPO = "https://github.com/Aadhi000/Ajax"
+HELP = "No help, run away......."
+REPO = "https://t.me/heart_recipe"
 # -- Constants End -- #
 
 
