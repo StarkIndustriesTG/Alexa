@@ -57,7 +57,7 @@ def a(client, message):
             #     m.edit("Exceeded 30mins cap")
             #     return
 
-            performer = f"[ᗩᒍᗩ᙭]" 
+            performer = f"[ZENDAYA]" 
             thumb_name = f'thumb{message.message_id}.jpg'
             thumb = requests.get(thumbnail, allow_redirects=True)
             open(thumb_name, 'wb').write(thumb.content)
@@ -68,11 +68,11 @@ def a(client, message):
             return
     except Exception as e:
         m.edit(
-            "**𝙴𝙽𝚃𝙴𝚁 𝚂𝙾𝙽𝙷 𝙽𝙰𝙼𝙴 𝚆𝙸𝚃𝙷 𝙲𝙾𝙼𝙼𝙰𝙽𝙳**❗\n𝙵𝙾𝚁 𝙴𝚇𝙰𝙼𝙿𝙻𝙴: `/song Alone marshmellow`"
+            "**𝙴𝙽𝚃𝙴𝚁 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 𝚆𝙸𝚃𝙷 𝙲𝙾𝙼𝙼𝙰𝙽𝙳**❗\n𝙵𝙾𝚁 𝙴𝚇𝙰𝙼𝙿𝙻𝙴: `/song Love Your Voice`"
         )
         print(str(e))
         return
-    m.edit("`uplσαdíng чσur sσng...!`")
+    m.edit("`𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚂𝙾𝙽𝙶...!`")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
@@ -87,7 +87,7 @@ def a(client, message):
         m.delete()
         message.delete()
     except Exception as e:
-        m.edit('**An Error Occured. Please Report This To** @jospsupport !!')
+        m.edit('**An Error Occured. Please Report This To** @heart_recipe !!')
         print(e)
     try:
         os.remove(audio_file)
