@@ -6,7 +6,8 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 RUN_STRINGS = (
     "oh..arrogance.. just like that .... no change ......nothing goes wrong .... !!!",
-      "Allah ... every child ... passion ...", " I do not know how to read, sir. I do not know how to read." ".", 
+      "Allah ... every child ... passion ...",
+    " I do not know how to read, sir. I do not know how to read." ".", 
 )
 
 
