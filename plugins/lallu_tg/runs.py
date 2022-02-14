@@ -5,7 +5,7 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 
 RUN_STRINGS = (
-    ""oh..Arrogance.. just like that .... no change ...... ".", 
+    ""oh..arrogance.. just like that .... no change ...... ".", 
 )
 
 
