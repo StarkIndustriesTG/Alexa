@@ -8,7 +8,6 @@ class script(object):
 ✪ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✪ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✪ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✪ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂   : v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ✪ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href='https://telegram.dog/VK_LINKZ'>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✪ 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href='https://telegram.dog/+XX7Ox8faMtE1ZTY1'>𝚃𝙾𝚄𝙲𝙷 𝙷𝙴𝚁𝙴</a>"""
     FILE_TXT = """➤ 𝙷𝙴𝙻𝙿: 𝙵𝙸𝙻𝙴 𝚂𝚃𝙾𝚁𝙴 𝙼𝙾𝙳𝚄𝙻𝙴../
@@ -222,11 +221,11 @@ class script(object):
 ✯ /unban_user  - <code>𝚃𝙾 𝚄𝙽𝙱𝙰𝙽 𝙰 𝚄𝚂𝙴𝚁.</code>
 ✯ /channel - <code>𝚃𝙾 𝙶𝙴𝚃 𝙻𝙸𝚂𝚃 𝙾𝙵 𝚃𝙾𝚃𝙰𝙻 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂.</code>
 ✯ /broadcast - <code>𝚃𝙾 𝙱𝚁𝙾𝙳𝙲𝙰𝚂𝚃 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝚃𝙾 𝙰𝙻𝙻 𝚄𝚂𝙴𝚁𝚂.</code>"""
-    STATUS_TXT = """<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
+    STATUS_TXT = """<b>✫ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
 <b>✫ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
 <b>✫ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
-<b>✫ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
-<b>✫ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>"""
+<b>✫ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code></b>
+<b>✫ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code></b>"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
 <b>᚛› 𝙶𝚁𝙾𝚄𝙿 ⪼ {}(<code>{}</code>)</b>
