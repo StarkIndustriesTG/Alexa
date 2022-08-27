@@ -1,1 +1,17 @@
+name: Deploy
 
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
+        with:
+          heroku_api_key: "0f0eb623-b327-49dc-974e-f08ea633c7e6"
+          heroku_app_name: "alexa2bot" #Must be unique in Heroku
+          heroku_email: "ktmrc200sp@gmail.com"
